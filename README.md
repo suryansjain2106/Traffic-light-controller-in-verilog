@@ -1,1 +1,1 @@
-# Traffic-light-controller-in-verilog
+# Traffic-light-controller-using-verilog
